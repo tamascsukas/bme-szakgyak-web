@@ -1,0 +1,1 @@
+# bme-szakgyak-web
